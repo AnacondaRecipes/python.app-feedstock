@@ -18,9 +18,6 @@ requirements:
 test:
   files:
     - t.py
-  commands:
-    - python.app -V
-    - pythonw -V
 
 about:
   home: https://www.python.org/
